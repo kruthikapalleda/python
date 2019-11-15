@@ -1,0 +1,11 @@
+set = {"AAA","BBB"}
+print(set)
+set.add(10)
+set.add(20)
+print(set)
+set.add(22.22)
+set.add(33.33)
+print(set)
+set.add(True)
+set.add(False)
+print(set)
